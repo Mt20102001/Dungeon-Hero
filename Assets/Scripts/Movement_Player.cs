@@ -50,10 +50,13 @@ public class Movement_Player : MonoBehaviour
         }
 
         //Input to Dash
-        CheckDash();
-        if (Input.GetKeyDown(KeyCode.Space) && !this.animator.GetCurrentAnimatorStateInfo(0).IsTag("Attack"))
+        if (Hp_Mana_Stamina_Player.instance.Stamina_Current_Player != 0)
         {
-            AttemptToDash();
+            CheckDash();
+            if (Input.GetKeyDown(KeyCode.Space) && !this.animator.GetCurrentAnimatorStateInfo(0).IsTag("Attack"))
+            {
+                AttemptToDash();
+            }
         }
     }
 
@@ -106,6 +109,7 @@ public class Movement_Player : MonoBehaviour
         isDashing = true;
         dashTimeLeft = dashTime;
         lastDast = Time.time;
+        Hp_Mana_Stamina_Player.instance.UseStamina(10);
 
         PlayerAfterImagePool.Instance.GetFromPool();
         lastImageXpos = rb.transform.localScale.x;

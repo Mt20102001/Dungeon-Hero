@@ -6,11 +6,7 @@ using UnityEngine.UI;
 public class BarPlayer : MonoBehaviour
 {
     #region Public Values
-    public Slider sliderHP;
-    public Slider sliderSTM;
-    public Slider sliderMP;
-
-    
+    public Slider slider;
     #endregion
 
     // Start is called before the first frame update
@@ -25,22 +21,14 @@ public class BarPlayer : MonoBehaviour
         
     }
 
-    public void SetMax(int HP, int STM, int MP)
+    public void SetMax(int value)
     {
-        sliderHP.maxValue = HP;
-        sliderHP.value = HP;
-
-        sliderSTM.maxValue = STM;
-        sliderSTM.value = STM;
-
-        sliderMP.maxValue = MP;
-        sliderMP.value = MP;
+        slider.maxValue = value;
+        slider.value = value;
     }
 
-    public void SetCurrent(int HP, int STM, int MP)
+    public void SetCurrent(int value)
     {
-        sliderHP.value = HP;
-        sliderSTM.value = STM;
-        sliderMP.value = MP;
+        slider.value = value;
     }
 }
