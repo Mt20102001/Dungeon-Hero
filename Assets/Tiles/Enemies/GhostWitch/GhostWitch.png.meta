@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 6b7561a802c613c4d9e90fb8e555c9d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2547285139768379100
+    second: GhostWitch_0
+  - first:
+      213: -6893786133988466135
+    second: GhostWitch_1
+  - first:
+      213: -6059029877900074595
+    second: GhostWitch_2
+  - first:
+      213: -17276616114563935
+    second: GhostWitch_3
+  - first:
+      213: -1945098451467783098
+    second: GhostWitch_4
+  - first:
+      213: 5054362278232369626
+    second: GhostWitch_5
+  - first:
+      213: -5024283595748671912
+    second: GhostWitch_6
+  - first:
+      213: 2263544790655570821
+    second: GhostWitch_7
+  - first:
+      213: 3318690686288299228
+    second: GhostWitch_8
+  - first:
+      213: 6978598631123623412
+    second: GhostWitch_9
+  - first:
+      213: -8796113721002081767
+    second: GhostWitch_10
+  - first:
+      213: 5177329500110679600
+    second: GhostWitch_11
+  - first:
+      213: -1679442986925115856
+    second: GhostWitch_12
+  - first:
+      213: -1930081840779631997
+    second: GhostWitch_13
+  - first:
+      213: -5211576838441271553
+    second: GhostWitch_14
+  - first:
+      213: 1473761142314599130
+    second: GhostWitch_15
+  - first:
+      213: -1557864220575576275
+    second: GhostWitch_16
+  - first:
+      213: 8030188628997426818
+    second: GhostWitch_17
+  - first:
+      213: -5396962026952819149
+    second: GhostWitch_18
+  - first:
+      213: -7860891677715230658
+    second: GhostWitch_19
+  - first:
+      213: 5160232198315696671
+    second: GhostWitch_20
+  - first:
+      213: 5663144591278484337
+    second: GhostWitch_21
+  - first:
+      213: 716041012105471370
+    second: GhostWitch_22
+  - first:
+      213: 5268867047256804984
+    second: GhostWitch_23
+  - first:
+      213: -1948845371246503824
+    second: GhostWitch_24
+  - first:
+      213: -2120586642655904788
+    second: GhostWitch_25
+  - first:
+      213: 9021561641847957643
+    second: GhostWitch_26
+  - first:
+      213: -1767787132614831133
+    second: GhostWitch_27
+  - first:
+      213: 2781647344950461031
+    second: GhostWitch_28
+  - first:
+      213: 8214837613980755603
+    second: GhostWitch_29
+  - first:
+      213: -6515908313823959995
+    second: GhostWitch_30
+  - first:
+      213: -8303719574181984579
+    second: GhostWitch_31
+  - first:
+      213: 4831576660485767546
+    second: GhostWitch_32
+  - first:
+      213: -1311932461235559186
+    second: GhostWitch_33
+  - first:
+      213: -7707397717776618451
+    second: GhostWitch_34
+  - first:
+      213: 4170774826242374146
+    second: GhostWitch_35
+  - first:
+      213: 1046541685398731529
+    second: GhostWitch_36
+  - first:
+      213: -7026267031762985626
+    second: GhostWitch_37
+  - first:
+      213: 6783333393177764551
+    second: GhostWitch_38
+  - first:
+      213: -4369979294098044579
+    second: GhostWitch_39
+  - first:
+      213: -6079392276085469499
+    second: GhostWitch_40
+  - first:
+      213: 8130337852513639938
+    second: GhostWitch_41
+  - first:
+      213: 1748816893424241293
+    second: GhostWitch_42
+  - first:
+      213: 2975867858842102997
+    second: GhostWitch_43
+  - first:
+      213: 8325726524926285682
+    second: GhostWitch_44
+  - first:
+      213: 2852115849359503269
+    second: GhostWitch_45
+  - first:
+      213: -4699624748932945353
+    second: GhostWitch_46
+  - first:
+      213: -7374279909471012850
+    second: GhostWitch_47
+  - first:
+      213: 6016348805512235801
+    second: GhostWitch_48
+  - first:
+      213: 3744410786554303418
+    second: GhostWitch_49
+  - first:
+      213: -8179400440903713280
+    second: GhostWitch_50
+  - first:
+      213: -8008780142036099421
+    second: GhostWitch_51
+  - first:
+      213: 2260560060366034331
+    second: GhostWitch_52
+  - first:
+      213: 6008922998459188792
+    second: GhostWitch_53
+  - first:
+      213: 920818365974782735
+    second: GhostWitch_54
+  - first:
+      213: -4505567606812469629
+    second: GhostWitch_55
+  - first:
+      213: -7683871056247819769
+    second: GhostWitch_56
+  - first:
+      213: -7913384662485241364
+    second: GhostWitch_57
+  - first:
+      213: -3237959924815953768
+    second: GhostWitch_58
+  - first:
+      213: 1550333899920785705
+    second: GhostWitch_59
+  - first:
+      213: 6476457412994389245
+    second: GhostWitch_60
+  - first:
+      213: 3167009676897079831
+    second: GhostWitch_61
+  - first:
+      213: 5559260874148644126
+    second: GhostWitch_62
+  - first:
+      213: 1589895993689524638
+    second: GhostWitch_63
+  - first:
+      213: 833960705878082539
+    second: GhostWitch_64
+  - first:
+      213: 1800813572553928067
+    second: GhostWitch_65
+  - first:
+      213: -3865897390557093791
+    second: GhostWitch_66
+  - first:
+      213: 1808538616084572924
+    second: GhostWitch_67
+  - first:
+      213: -7217783959355379841
+    second: GhostWitch_68
+  - first:
+      213: 6145016774004590129
+    second: GhostWitch_69
+  - first:
+      213: 8329844162453936310
+    second: GhostWitch_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhostWitch_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1577
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429797659a936acd0800000000000000
+      internalID: -2547285139768379100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1574
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922aa16390a5450a0800000000000000
+      internalID: -6893786133988466135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1574
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a94c9d600aeba0800000000000000
+      internalID: -6059029877900074595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1574
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41299520f92cff0800000000000000
+      internalID: -17276616114563935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1577
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b913934f9105e0800000000000000
+      internalID: -1945098451467783098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1435
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ac2086b3b42640800000000000000
+      internalID: 5054362278232369626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1438
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef39080b8264ab0800000000000000
+      internalID: -5024283595748671912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1441
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583163c8ef9b96f10800000000000000
+      internalID: 2263544790655570821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1441
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd48c93989b5e0e20800000000000000
+      internalID: 3318690686288299228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1441
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd96261b76f8d060800000000000000
+      internalID: 6978598631123623412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1296
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124bbfac2dede580800000000000000
+      internalID: -8796113721002081767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1293
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6f3befb199d740800000000000000
+      internalID: 5177329500110679600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1290
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036becf508b61b8e0800000000000000
+      internalID: -1679442986925115856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1290
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e5e4bac8f635e0800000000000000
+      internalID: -1930081840779631997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1290
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefd014a72cca7b0800000000000000
+      internalID: -5211576838441271553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1151
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad28f6b53f9d37410800000000000000
+      internalID: 1473761142314599130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1151
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4d4cceba516ae0800000000000000
+      internalID: -1557864220575576275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1154
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec5c62306f07f60800000000000000
+      internalID: 8030188628997426818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1157
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e743d71a32a15b0800000000000000
+      internalID: -5396962026952819149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1157
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3095fbfaa088e290800000000000000
+      internalID: -7860891677715230658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1015
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12e32328d3dc9740800000000000000
+      internalID: 5160232198315696671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1012
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b24da4008879e40800000000000000
+      internalID: 5663144591278484337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1009
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85682bb183efe900800000000000000
+      internalID: 716041012105471370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1009
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec080f9a6ce1940800000000000000
+      internalID: 5268867047256804984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1006
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07810b4d57f44f4e0800000000000000
+      internalID: -1948845371246503824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 864
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7e011fa92292e0800000000000000
+      internalID: -2120586642655904788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 864
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8823a5d386033d70800000000000000
+      internalID: 9021561641847957643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 870
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39cf118fe8777e0800000000000000
+      internalID: -1767787132614831133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 876
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624e2eb5856a9620800000000000000
+      internalID: 2781647344950461031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 882
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39627dc2947f00270800000000000000
+      internalID: 8214837613980755603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 725
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544228d49e7d295a0800000000000000
+      internalID: -6515908313823959995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 731
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6cc62da0343cc80800000000000000
+      internalID: -8303719574181984579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 731
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718259bf553d0340800000000000000
+      internalID: 4831576660485767546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 728
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee420ce90641bcde0800000000000000
+      internalID: -1311932461235559186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 725
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca4497c92d90590800000000000000
+      internalID: -7707397717776618451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 598
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a71545b9191e930800000000000000
+      internalID: 4170774826242374146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 598
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b74d83e10168e00800000000000000
+      internalID: 1046541685398731529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 595
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9ab28c5fad7e90800000000000000
+      internalID: -7026267031762985626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 595
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e76d08cd332e50800000000000000
+      internalID: 6783333393177764551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 595
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5949733cf6ba53c0800000000000000
+      internalID: -4369979294098044579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 453
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce0ca55fe8a1aba0800000000000000
+      internalID: -6079392276085469499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 441
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a01cde2bb054810800000000000000
+      internalID: 1748816893424241293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_44
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 438
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277574fa92cea8370800000000000000
+      internalID: 8325726524926285682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 441
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb244a2aeec7e80800000000000000
+      internalID: -8179400440903713280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_52
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 438
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959d8fd56f1f5f10800000000000000
+      internalID: 2260560060366034331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 296
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c5d561abf36350800000000000000
+      internalID: 6008922998459188792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 296
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032596dc6767cc00800000000000000
+      internalID: 920818365974782735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_55
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 299
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869f6412220971c0800000000000000
+      internalID: -4505567606812469629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_56
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 311
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70271783cf76d5590800000000000000
+      internalID: -7683871056247819769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 302
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1fa8d83920e2290800000000000000
+      internalID: -7913384662485241364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 157
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89005649a947013d0800000000000000
+      internalID: -3237959924815953768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921460cc774e38510800000000000000
+      internalID: 1550333899920785705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_60
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 160
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d97014bff0e950800000000000000
+      internalID: 6476457412994389245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_61
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 166
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712dca7858a73fb20800000000000000
+      internalID: 3167009676897079831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_62
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 169
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158b519f46762d40800000000000000
+      internalID: 5559260874148644126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 45
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d67c23766cdf810800000000000000
+      internalID: 1800813572553928067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1602cb14ec2995ac0800000000000000
+      internalID: -3865897390557093791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 42
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f2c1dfab745db90800000000000000
+      internalID: -7217783959355379841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostWitch_70
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 72
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b89d61e12d899370800000000000000
+      internalID: 8329844162453936310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,7 +15,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "3f23b5b4-8c22-a17f-ab00-9132323882f2": {
+      "ProjectGuid": "3f23b5b4-8c22-a17f-ab00-9132323882f2",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

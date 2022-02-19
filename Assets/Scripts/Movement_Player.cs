@@ -10,6 +10,7 @@ public class Movement_Player : MonoBehaviour
     public float moveSpeed;
     public float dashTime;
     public float dashSpeed;
+    public int staminaForDash;
     public float distanceBetweenImages;
     public float dashCoolDown;
     public bool CanMove;
@@ -50,10 +51,10 @@ public class Movement_Player : MonoBehaviour
         }
 
         //Input to Dash
-        if (Hp_Mana_Stamina_Player.instance.Stamina_Current_Player != 0)
+        CheckDash();
+        if (Input.GetKeyDown(KeyCode.Space) && !this.animator.GetCurrentAnimatorStateInfo(0).IsTag("Attack"))
         {
-            CheckDash();
-            if (Input.GetKeyDown(KeyCode.Space) && !this.animator.GetCurrentAnimatorStateInfo(0).IsTag("Attack"))
+            if (Hp_Mana_Stamina_Player.instance.Stamina_Current_Player - staminaForDash >= 0)
             {
                 AttemptToDash();
             }
@@ -109,7 +110,7 @@ public class Movement_Player : MonoBehaviour
         isDashing = true;
         dashTimeLeft = dashTime;
         lastDast = Time.time;
-        Hp_Mana_Stamina_Player.instance.UseStamina(10);
+        Hp_Mana_Stamina_Player.instance.UseStamina(staminaForDash);
 
         PlayerAfterImagePool.Instance.GetFromPool();
         lastImageXpos = rb.transform.localScale.x;
