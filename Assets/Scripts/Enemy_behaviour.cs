@@ -7,7 +7,6 @@ public class Enemy_behaviour : MonoBehaviour
 
     #region Public Variables
     public Animator anim;
-    public Rigidbody2D rb_enemy;
     public float attackDistance; //Minimum distance for attack
     public float moveSpeed;
     public float timer; //Timer for cooldown between attacks
@@ -15,11 +14,9 @@ public class Enemy_behaviour : MonoBehaviour
 
     #region Private Variables
     private Transform target;
-    private Vector3 directionToPlayer;
     private Vector3 localScale;
     private float distance; //Store the distance b/w enemy and player
     private bool attackMode;
-    private bool inRange; //Check if Player is in range
     private bool cooling; //Check if Enemy is cooling after attack
     private float intTimer;
     #endregion
@@ -39,11 +36,6 @@ public class Enemy_behaviour : MonoBehaviour
     {
         //When Player is detected
         EnemyLogic();
-        if (inRange == false)
-        {
-            anim.SetBool("canWalk", false);
-            StopAttack();
-        }
     }
 
     private void LateUpdate()
@@ -55,15 +47,6 @@ public class Enemy_behaviour : MonoBehaviour
         else if (target.position.x - transform.position.x < 0)
         {
             transform.localRotation = Quaternion.Euler(0, 180, 0);
-        }
-    }
-
-    void OnTriggerEnter2D(Collider2D trig)
-    {
-        if (trig.gameObject.tag == "Player")
-        {
-            target = trig.transform;
-            inRange = true;
         }
     }
 
@@ -94,8 +77,6 @@ public class Enemy_behaviour : MonoBehaviour
 
         if (!anim.GetCurrentAnimatorStateInfo(0).IsName("Enemy_attack"))
         {
-            // directionToPlayer = (target.position - transform.position).normalized;
-            // rb_enemy.velocity = new Vector2(directionToPlayer.x, directionToPlayer.y);
             transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
         }
     }
