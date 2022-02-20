@@ -7,13 +7,11 @@ public class Combat_Player : MonoBehaviour
     #region Public Value
     public Animator animator;
     public int staminaForAttack;
-
     #endregion
 
     #region Private Value
     [SerializeField]
     private GameObject Player;
-
     #endregion
 
     // Start is called before the first frame update
