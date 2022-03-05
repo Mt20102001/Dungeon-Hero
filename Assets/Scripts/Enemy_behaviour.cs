@@ -75,7 +75,7 @@ public class Enemy_behaviour : MonoBehaviour
     {
         anim.SetBool("canWalk", true);
 
-        if (!anim.GetCurrentAnimatorStateInfo(0).IsName("Enemy_attack"))
+        if (!anim.GetCurrentAnimatorStateInfo(0).IsName("Enemy_attack") && !anim.GetCurrentAnimatorStateInfo(0).IsName("Enemy_Hurt"))
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
         }
