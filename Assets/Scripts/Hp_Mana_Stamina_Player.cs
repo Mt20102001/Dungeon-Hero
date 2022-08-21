@@ -8,7 +8,7 @@ public class Hp_Mana_Stamina_Player : MonoBehaviour
     #region Public Values
     public int HP_Player;
     public int HP_Current_Player;
-    
+
     public int Stamina_Player;
     public int Stamina_Current_Player;
 
@@ -50,7 +50,7 @@ public class Hp_Mana_Stamina_Player : MonoBehaviour
 
         textHP_Max.text = "/" + HP_Player.ToString();
         textHP_Current.text = HP_Current_Player.ToString();
-        
+
         textSTM_Max.text = "/" + Stamina_Player.ToString();
         textSTM_Current.text = Stamina_Current_Player.ToString();
 
@@ -116,7 +116,7 @@ public class Hp_Mana_Stamina_Player : MonoBehaviour
         if (Stamina_Current_Player - StaminaToUse > 0)
         {
             Stamina_Current_Player -= StaminaToUse;
-            
+
             if (regen != null)
             {
                 StopCoroutine(regen);
